@@ -1,8 +1,8 @@
-# Hi there 👋
+# Hi there ![Animated GIF](https://64.media.tumblr.com/4d502ba807b173c7fd4624504257d65b/c3614424f2464c97-ab/s250x400/878317253f19cd6323499571641154ee4de0c97f.gifv)
   My name is **Yasmin Sanchez**. I'm a jr frontend developer with a love for design 
   
 
- ![Animated GIF](https://dl.glitter-graphics.com/pub/2246/2246348plce6xs5t7.gif)I’m currently working on 
+ -![Animated GIF](https://dl.glitter-graphics.com/pub/2246/2246348plce6xs5t7.gif)I’m currently working on 
 - ![Animated GIF](https://kreayshawn.com/small%20pics/new%20ones/tumblr_inline_mjgtw5jg241roozkr540.gif) I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
