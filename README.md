@@ -1,5 +1,5 @@
 # Hi there 👋
- My name is <bold>Yasmin Sanchez</bold>
+ My name is Yasmin Sanchez
 <!--
 **yasmins021/yasmins021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
