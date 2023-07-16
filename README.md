@@ -1,5 +1,7 @@
+<div style="background-color: #FDE2E7; padding: 20px;">
+
 # Hi there 👋
- My name is Yasmin Sanchez
+  My name is **Yasmin Sanchez**. I'm a jr frontend developer with a love for design 
 <!--
 **yasmins021/yasmins021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
