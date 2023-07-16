@@ -1,4 +1,4 @@
-# Hi there ![Animated GIF](https://64.media.tumblr.com/4d502ba807b173c7fd4624504257d65b/c3614424f2464c97-ab/s250x400/878317253f19cd6323499571641154ee4de0c97f.gifv)
+# Hi there! ![Animated GIF](https://64.media.tumblr.com/4d502ba807b173c7fd4624504257d65b/c3614424f2464c97-ab/s250x400/878317253f19cd6323499571641154ee4de0c97f.gifv)
   My name is **Yasmin Sanchez**. I'm a jr frontend developer with a love for design 
   
 
