@@ -6,4 +6,4 @@
 - ![Animated GIF](https://cdn.discordapp.com/attachments/1028757682854826016/1085719093681864804/IMG_0883.gif) Some technologies I enjoy working with is HTML, CSS, JavaScript, and Adobe Illustrator
 - ![Animated GIF](https://cdn.discordapp.com/attachments/1028757682854826016/1085719093681864804/IMG_0883.gif) You can shoot me an email at yasmins0321@gmail.com! I'll try to respond as soon as I can!
 
- -! [Animated GIF](https://cdn.discordapp.com/attachments/1028757682854826016/1085719093681864804/IMG_0883.gif) Fun fact: I create music through code and also dabble with 3D design
+ - ![Animated GIF](https://cdn.discordapp.com/attachments/1028757682854826016/1085719093681864804/IMG_0883.gif) Fun fact: I create music through code and also dabble with 3D design
